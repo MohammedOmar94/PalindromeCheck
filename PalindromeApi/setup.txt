@@ -1,0 +1,11 @@
+Requires Node.js, Express and EJS
+
+Change directory to PalindromeApi and run the following command to run the server:
+
+node palindrome.js
+
+If you experience the error "Cannot find module 'body-parser'"
+run the following command:
+
+npm link body-parser
+

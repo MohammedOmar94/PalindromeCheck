@@ -1,0 +1,21 @@
+{
+  "name": "palindromeapi",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "body-parser": "^1.17.2",
+    "bytes": "^3.0.0",
+    "cookie-parser": "^1.4.3",
+    "cookie-session": "^1.3.1",
+    "encode": "^1.0.1",
+    "express": "^4.15.4",
+    "json": "^9.0.6"
+  },
+  "devDependencies": {},
+  "description": ""
+}
